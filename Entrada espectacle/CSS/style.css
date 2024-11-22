@@ -1,0 +1,122 @@
+body {
+    background-color: white;
+}
+
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+}
+
+
+main {
+    display: block;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+
+h1 {
+    text-align: left;
+    /* margin-bottom: 50px; */
+    color: red;
+}
+
+
+
+/* th {
+    column-span:all;
+    text-align: center;
+    width: 400px;
+ } */
+
+
+ h2,
+
+
+td, tr{
+    margin-left: 31%;
+    width: 20%;
+   
+}
+
+
+td {
+    text-align:center
+}
+
+
+.tabla1 {
+background-color: rgb(165, 165, 165);
+font-weight: bolder;
+}
+
+
+.tabla2 {
+    background-color: rgb(164, 164, 164);
+}
+
+
+
+
+.tabla2 td {
+    text-align: left;
+    width: 10px;
+    background-color: rgb(146, 146, 146);
+}
+
+.phone {
+    background-color: white;
+
+}
+
+.qr {
+  width: 100px;
+  height: 100px;
+
+    
+}
+
+
+
+
+
+.tabla4 {
+    margin-left: 500px;
+}
+
+.tabla_final_col1 {
+    color: red;
+    font-weight: bolder;
+   
+   
+}
+
+
+
+.tabla_final_col1 th {
+    margin-left: 250px;
+    margin-right: -350px;
+}
+
+
+
+
+
+.tabla4 {
+  margin-left: 755px;
+}
+
+
+.th_precio {
+    color: black;
+}
+
+
+
+
